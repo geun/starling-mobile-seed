@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:ba03ae50a04ec71b167149936757b69f:d4d7866c61207e212343119207635547:eb1fcdea06810f1c83eba2d1660dd7f0$ -->
+<TextureAtlas imagePath="spinner.png">
+    <SubTexture name="spiner01" x="2" y="2" width="41" height="41"/>
+    <SubTexture name="spiner02" x="2" y="45" width="41" height="41"/>
+    <SubTexture name="spiner03" x="2" y="88" width="41" height="41"/>
+    <SubTexture name="spiner04" x="2" y="131" width="41" height="41"/>
+    <SubTexture name="spiner05" x="2" y="174" width="41" height="41"/>
+    <SubTexture name="spiner06" x="45" y="2" width="41" height="41"/>
+    <SubTexture name="spiner07" x="88" y="2" width="41" height="41"/>
+    <SubTexture name="spiner08" x="131" y="2" width="41" height="41"/>
+    <SubTexture name="spiner09" x="174" y="2" width="41" height="41"/>
+    <SubTexture name="spiner10" x="45" y="45" width="41" height="41"/>
+    <SubTexture name="spiner11" x="45" y="88" width="41" height="41"/>
+    <SubTexture name="spiner12" x="45" y="131" width="41" height="41"/>
+</TextureAtlas>
